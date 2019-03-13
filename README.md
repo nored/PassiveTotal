@@ -15,15 +15,15 @@ optional arguments:
 
 
 
-                        pdns: 		   Query passive DNS data 
+                        pdns: 		    Query passive DNS data 
 
-                        whois: 		 Query WHOIS data 
+                        whois: 		    Query WHOIS data 
 
-                        ssl: 			Query SSL certificate data 
+                        ssl: 			    Query SSL certificate data 
 
-                        comp: 		  Query Componets 
+                        comp: 		    Query Componets 
 
-                        tracker: 	       Query Trakers 
+                        tracker: 	    Query Trakers 
 
                         malware: 	    Query Malware data 
 
