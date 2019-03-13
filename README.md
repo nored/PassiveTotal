@@ -1,6 +1,7 @@
 # Minimal PassiveTotal Api-Client
 
-`usage: minimal-client.py [-h] -a ACTION -q QUERY
+```
+usage: minimal-client.py [-h] -a ACTION -q QUERY
 
 optional arguments:
 
@@ -8,29 +9,30 @@ optional arguments:
 
   -a ACTION, --action ACTION
 
-​                        possible arguments:
+                        possible arguments:
 
-​                        {action,pdns,whois,ssl,osint,compo} 
+                        {action,pdns,whois,ssl,osint,compo} 
 
 
 
-​                        pdns: 		   Query passive DNS data 
+                        pdns: 		   Query passive DNS data 
 
-​                        whois: 		 Query WHOIS data 
+                        whois: 		 Query WHOIS data 
 
-​                        ssl: 			Query SSL certificate data 
+                        ssl: 			Query SSL certificate data 
 
-​                        comp: 		  Query Componets 
+                        comp: 		  Query Componets 
 
-​                        tracker: 	       Query Trakers 
+                        tracker: 	       Query Trakers 
 
-​                        malware: 	    Query Malware data 
+                        malware: 	    Query Malware data 
 
-​                        subd: 		    Query Subdomain data
+                        subd: 		    Query Subdomain data
 
-​                        
+                        
 
   -q QUERY, --query QUERY
 
-​                        query to search for`
+                        query to search for
+```
 
