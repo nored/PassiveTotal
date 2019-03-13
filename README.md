@@ -19,7 +19,7 @@ optional arguments:
 
                         whois: 		    Query WHOIS data 
 
-                        ssl: 			    Query SSL certificate data 
+                        ssl:               Query SSL certificate data 
 
                         comp: 		    Query Componets 
 
