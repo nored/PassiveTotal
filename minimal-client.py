@@ -57,7 +57,7 @@ auth = (username, key)
 base_url = data_loaded['base_url']
 
 if data_loaded['api_key'] == 'value':
-    sys.exit("Please do: gedit " + os.path.dirname(os.path.abspath(__file__)) + "/config \nand setup the configuration first!\nYou can \"Copy&Paste\" this command!!!")
+    sys.exit("Please do: code " + os.path.dirname(os.path.abspath(__file__)) + "/config \nand setup the configuration first!\nYou can \"Copy&Paste\" this command!!!")
 
 def passivetotal_get(endpoint, query):
     url = base_url + endpoint
